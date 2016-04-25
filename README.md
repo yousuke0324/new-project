@@ -2,7 +2,7 @@
 
 Everything is local.
 
-|ƒwƒbƒ_‚P|ƒwƒbƒ_2|ƒwƒbƒ_3|
+|ãƒ˜ãƒƒãƒ€ï¼‘|ãƒ˜ãƒƒãƒ€2|ãƒ˜ãƒƒãƒ€3|
 |:--|--:|:--:|
 |align left|align right|align center|
-|¶|‰E|’†‰›|
+|å·¦|å³|ä¸­å¤®|
